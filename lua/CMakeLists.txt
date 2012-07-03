@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.4)
-project(lua-back)
+project(lua-backend)
 
 add_subdirectory(lua)
-add_subdirectory(libyaml)
+add_subdirectory(lua-yaml)
